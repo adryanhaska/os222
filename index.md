@@ -13,6 +13,6 @@ This is {{ site.title }} and I am adryanhaska.
 This is the way!
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; 2022 --- adryanhaska --- Version: .
 <hr>
 <br>
