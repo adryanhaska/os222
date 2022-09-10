@@ -5,7 +5,7 @@
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB][({{https://github.com/adryanhaska/os222}})]
 <br>
 <hr>
 This is {{ site.title }} and I am adryanhaska.
