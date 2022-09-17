@@ -12,21 +12,46 @@ permalink: LINKS/
 
 # LINKS
 
+WEEK 00
+
+1. [Introduction of Operating Systems](https://www.vmware.com/topics/glossary/content/virtual-machine.html)<br>
+This is a good article about an introduction to operating systems, starting with the definition of the operating system, operating system functions, major functionality, types of operating systems, and much more.
+
+2. [Operating Systems: Crash Course Computer Science #18](https://youtu.be/26QPDBe-NB8)<br>
+This video is a good introduction to getting to know the operating system. This video explains the history of the operating system to modern operating systems with interesting visuals to watch.
+
+3. [Git and GitHub for Beginners](https://youtu.be/RGOj5yH7evk)<br>
+This video contains a complete explanation of how to use git and github, which is very important for a developer to understand.
+
+
 WEEK 01
 
 1. [What is virtual machine](https://www.vmware.com/topics/glossary/content/virtual-machine.html)<br> 
 This is a good article explaning about what a virtual machine is, how it works and more. 
 
 2. [VI Editor - Linux Tutorial #14](https://www.youtube.com/watch?v=pU2k776i2Zw)<br> 
-This video is a good introduction to learn vi editor in Linux or Unix
+This video is a good introduction to learn vi editor in Linux or Unix.
 
 3. [Bash scripting cheatsheet - Devhints](https://devhints.io/bash)<br> 
-This link is a cheatsheet containing a snippet of bash scrypting syntax, this is a good reference to getting started with Bash scripting
+This link is a cheatsheet containing a snippet of bash scrypting syntax, this is a good reference to getting started with Bash scripting.
+
+
+WEEK 02
+
+1. [Cybersecurity: Crash Course Computer Science #3](https://youtu.be/bPVaOlJ6ln0)<br>
+This video contains a basic explanation of cybersecurity, starting from what cybersecurity is, mallware, attacks, authentication and so on. The animation used in the video makes it more interesting.
+
+2. [Steps to Online Privacy - Internet Safety 101](https://internetsafety101.org/StepsToPrivacy)<br>
+Internet privacy is a complicated issue. This article collects some simple steps that might help you in terms of privacy on the internet.
+
+3. [C Language Introduction - GeeksforGeeks](https://www.geeksforgeeks.org/c-language-set-1-introduction/)<br>
+This is a good link that contains an introduction to the C language. It explains various basic things, such as introduction, the structure of a C program , simple code examples, how to execute code and many others.
 
 
 
 <br>
 <hr>
-&copy; 2022 --- adryanhaska --- Version: 10-sept-2022.
+&copy; 2022 --- adryanhaska --- Version: 17-sept-2022.
 <hr>
 <br>
+
