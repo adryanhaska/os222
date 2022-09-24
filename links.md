@@ -38,7 +38,7 @@ This link is a cheatsheet containing a snippet of bash scrypting syntax, this is
 
 WEEK 02
 
-1. [Cybersecurity: Crash Course Computer Science #3](https://youtu.be/bPVaOlJ6ln0)<br>
+1. [Cybersecurity: Crash Course Computer Science #31](https://youtu.be/bPVaOlJ6ln0)<br>
 This video contains a basic explanation of cybersecurity, starting from what cybersecurity is, mallware, attacks, authentication and so on. The animation used in the video makes it more interesting.
 
 2. [Steps to Online Privacy - Internet Safety 101](https://internetsafety101.org/StepsToPrivacy)<br>
@@ -48,10 +48,20 @@ Internet privacy is a complicated issue. This article collects some simple steps
 This is a good link that contains an introduction to the C language. It explains various basic things, such as introduction, the structure of a C program , simple code examples, how to execute code and many others.
 
 
+WEEK 03
+
+1. [File Systems in Operating System](https://www.geeksforgeeks.org/file-systems-in-operating-system/)<br>
+This is a good start to get to know file systems on operating systems. This article covers various topics such as attributes, file types, directories and more.
+
+2. [Files & File Systems: Crash Course Computer Science #20](https://youtu.be/KN8YgJnShPM)<br>
+This video from CrashCourse Channel talks about how some popular file formats like txt, wave, and bitmap are encoded and decoded, giving us pretty pictures and lifelike recordings from just strings of 1's and 0's. Also, discussing how our computers are able to keep all this data organized and readily accessible to users. 
+
+3. [File Systems as Fast As Possible](https://youtu.be/BV0-EPUYuQc)<br>
+This video talks about the differences between file systems, and what a file system actually does. What is NTFS, FAT32, exFAT? and others are explained in a video that is only 5 minutes long.
+
 
 <br>
 <hr>
-&copy; 2022 --- adryanhaska --- Version: 17-sept-2022.
+&copy; 2022 --- adryanhaska --- Version: 24-sept-2022.
 <hr>
 <br>
-
