@@ -83,8 +83,20 @@ This video explains virtual memory from scratch. Some of the topics discussed ar
 3. [What are the Page Replacement Algorithms?](https://afteracademy.com/blog/what-are-the-page-replacement-algorithms)<br>
 This article will introduce you to the concept of page replacement, which is used in memory management. You will understand the definition, need, and various algorithms related to page replacement.
 
+
+WEEK 06
+
+1. [Introduction of Process Management](https://www.geeksforgeeks.org/introduction-of-process-management/)<br>
+This article is a good starting point for understanding process management in the operating system. There are also some practice questions that can make our understanding better.
+
+2. [Operating System - Multi-Threading](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)<br>
+This article explains some important concepts about threads in operating systems, such as the difference between a thread and a process, the advantages of threads, the types of threads and their advantages and disadvantages, and much more.
+
+3. [Multitasking vs Multithreading vs Multiprocessing](https://youtu.be/Tn0u-IIBmtc)<br>
+Modern operating systems support multitasking (especially preemptive multitasking), multithreading, and multiprocessing (including symmetric multiprocessing and heterogeneous multiprocessing). But what are they? Are they different? What do software engineers need to know about these different paradigms? This video will explain!
+
 <br>
 <hr>
-&copy; 2022 --- adryanhaska --- Version: 8-oct-2022.
+&copy; 2022 --- adryanhaska --- Version: 4-nov-2022.
 <hr>
 <br>

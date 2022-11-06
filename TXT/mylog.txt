@@ -50,3 +50,12 @@ ZCZC W05 150 L09 Weekly Assignments
 ZCZC W05 130 L06 References/Books/Document/Browsing/GSGS related
 ZCZC W05 60 L05 Quiz related including studying
 ZCZC W05 40 L32 YouTube: watching OS related topics, etc.
+ZCZC W06 30 L00 General, etc.
+ZCZC W06 40 L01 SCELE/Discord related
+ZCZC W06 240 L02 offline class relates
+ZCZC W06 40 L03 GitHub related
+ZCZC W06 180 L09 Weekly Assignments
+ZCZC W06 130 L06 References/Books/Document/Browsing/GSGS related
+ZCZC W06 70 L05 Quiz related including studying
+ZCZC W06 30 L32 YouTube: watching OS related topics, etc.
+                                                             
