@@ -11,6 +11,9 @@ ZCZC W04 bryan-ilman
 ZCZC W05 christophernw
 ZCZC W05 cinvetsin
 ZCZC W05 daffafaizan
-ZCZC W06 milicos
-ZCZC W06 erlanggaak
-ZCZC W06 fabianark
+ZCZC W06 diafias
+ZCZC W06 divanyh
+ZCZC W06 dhafinn
+ZCZC W07 emilicos
+ZCZC W07 erlanggaak
+ZCZC W07 fabianark
