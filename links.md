@@ -107,8 +107,22 @@ In this deadlock in OS video tutorial, we will understand what is a deadlock in 
 3. [What is a semaphore? How do they work? (Example in C)](https://youtu.be/ukM_zzrIeXs)<br>
 In this video, Jacob Sober tries to provide some insight into how they work, and an example of where you could use semaphores to coordinate different processes.
 
+
+WEEK 08
+
+1. [CPU Scheduling Basics](https://youtu.be/Jkmy2YLUbUY)<br>
+This video is a good introduction to CPU scheduling on operating systems. Some concepts explained such as cpu burst, cooperative vs preventive, examples, and others.
+
+2. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+This article is a good explanation of CPU scheduling on operating systems. Topics discussed include definitions, goals, differences in each algorithm such as FCFC, LJF, SJF, priority scheduling, round robin, SRTF, LRTF, MLFQ, and many more. There are also some exercises at the end to help with comprehension.
+
+3. [How to build Linux From Scratch 11.2](https://youtube.com/playlist?list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+In this series of videos Kernotex show how to install Linux From Scratch 11.2 on a PC which has an existing installation of Windows 10. By the end of the videos the PC has a complete working LFS 11.2 system which has replaced Windows completely. This is a great playlist to help work on Linux From Scratch.
+
+
+
 <br>
 <hr>
-&copy; 2022 --- adryanhaska --- Version: 12-nov-2022.
+&copy; 2022 --- adryanhaska --- Version: 21-nov-2022.
 <hr>
 <br>
